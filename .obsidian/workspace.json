@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "814f201d5f42c4d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f674efafa09b290",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4798e015f71c194b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home/Dashboard.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Dashboard"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "518f1f2971d05099",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5d468a9ae2980e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e6abd0583855814",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "3378a63f995c10a8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "62005a6ae972d857",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13ac9af7e0531d21",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd70b729195c27cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bb1e76b94f1b57c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home/Dashboard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para Dashboard"
+            }
+          },
+          {
+            "id": "89e60aa23f713549",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home/Dashboard.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para Dashboard"
+            }
+          },
+          {
+            "id": "918a8993a9966d66",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d6700be721e4c94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home/Dashboard.md"
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de Dashboard"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Criar novo filme": false,
+      "cmdr:Criar novo mangá": false,
+      "cmdr:Criar nova serie": false,
+      "cmdr:Criar novo livro": false,
+      "cmdr:salvar imagens localmente": false,
+      "cmdr:Menu": false
+    }
+  },
+  "active": "4798e015f71c194b",
+  "lastOpenFiles": [
+    "examples/status.K5f4tzr8.gif.part",
+    "examples/status.gif",
+    "Resources/Manga/One Piece (1997).md",
+    "Home/Dashboard.md",
+    "examples/dashboard.7LUyWSQ5.gif.part",
+    "examples/book.gif",
+    "Resources/Book/The Lord of the Rings (1954).md",
+    "examples/bottons.gif",
+    "examples/dashboard.gif",
+    "examples",
+    "Static/examples",
+    "README.md",
+    "LICENSE",
+    "Resources/Manga/Mushoku Tensei - Isekai Ittara Honki Dasu (2014).md",
+    "Templates/serie-template.md",
+    "Templates/movie-template.md",
+    "Templates/manga-template.md",
+    "Templates/book-template.md",
+    "Resources/Series/Headhunted to Another World - From Salaryman to Big Four! (2025–).md",
+    "Static/images/Image!360-12.jpg",
+    "Resources/Manga/Nozomanu Fushi no Boukensha (2017).md",
+    "Resources/Manga/Kimetsu no Yaiba (2016).md",
+    "Resources/Manga/Isekai Nonbiri Nouka (2017).md",
+    "Resources/Manga/Gachiakuta (2022).md",
+    "Resources/Moves/Alice in Wonderland (2010).md",
+    "Resources/Moves/The Big Bang (1987).md",
+    "Resources/Series/Solo Leveling (2024–).md",
+    "Resources/Series/Modern Family (2009–2020).md",
+    "Resources/Book/All the Bright Places (2015).md",
+    "Class/watched.md",
+    "Class/read.md",
+    "Class",
+    "Static/images/Image!360-11.jpg",
+    "Static/images/Image!360-3.jpg",
+    "Static/images/Image!360-2.jpg",
+    "Static/images/Image!360-1.jpg",
+    "Static/images/Image!360.jpg",
+    "Resources/Book/The Perks of Being a Wallflower (1999).md",
+    "Resources/Book/Alice's Adventures in Wonderland (1865).md",
+    "Resources/Series/Jujutsu Kaisen (2020).md",
+    "Templates/Sem título",
+    "{{image}}.md",
+    "Static/images/2025/01/27/210558",
+    "Static/images/2025/01/27",
+    "Static/images/2025/01",
+    "Static/images/2025"
+  ]
+}

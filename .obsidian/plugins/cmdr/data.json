@@ -1,0 +1,97 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-media-db-plugin:open-media-db-search-modal-with-movie",
+      "icon": "lucide-camera",
+      "name": "Criar novo filme",
+      "mode": "any",
+      "color": "#da9a10"
+    },
+    {
+      "id": "obsidian-media-db-plugin:open-media-db-search-modal-with-manga",
+      "icon": "lucide-book-open",
+      "name": "Criar novo mangá",
+      "mode": "any",
+      "color": "#2bb828"
+    },
+    {
+      "id": "obsidian-media-db-plugin:open-media-db-search-modal-with-series",
+      "icon": "lucide-tv-minimal-play",
+      "name": "Criar nova serie",
+      "mode": "any",
+      "color": "#8838ff"
+    },
+    {
+      "id": "obsidian-media-db-plugin:open-media-db-search-modal-with-book",
+      "icon": "lucide-book-text",
+      "name": "Criar novo livro",
+      "mode": "any",
+      "color": "#e90c0c"
+    },
+    {
+      "id": "obsidian-local-images:download-images-all",
+      "icon": "lucide-download-cloud",
+      "name": "salvar imagens localmente",
+      "mode": "any",
+      "color": "#7062a6"
+    },
+    {
+      "id": "metadata-menu:open_fields_modal",
+      "icon": "lucide-square-menu",
+      "name": "Menu",
+      "mode": "any",
+      "color": "#00ffd5"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 1,
+          "delay": "2300"
+        },
+        {
+          "action": 0,
+          "commandId": "obsidian-local-images:download-images-all"
+        }
+      ],
+      "name": "baixar imagens localmente",
+      "icon": "star",
+      "startup": true
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Abrir a nota de hoje",
+      "Abrir paleta de comandos",
+      "Abrir visualização em gráfico",
+      "Criar novo canvas",
+      "Inserir modelo",
+      "Templater",
+      "Abrir a troca rápida",
+      "Add new Media DB entry"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

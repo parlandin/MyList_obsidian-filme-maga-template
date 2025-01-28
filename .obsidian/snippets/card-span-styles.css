@@ -1,0 +1,38 @@
+span.red {
+  color: #ff4d4d;
+}
+span.orange {
+  color: #ffa500;
+}
+span.yellow {
+  color: #ffd700;
+}
+span.light-green {
+  color: #90ee90;
+}
+span.green {
+  color: #32cd32;
+}
+
+
+span.file-link {
+  color: #007bff;
+  font-weight: bold !important;
+}
+
+
+span.authors, span.director, span.author, span.writer {
+  font-style: italic;
+  color: #db5656;
+}
+
+span.page, span.episode {
+  font-weight: bold;
+  color: #1995bb;
+
+}
+
+span.chapter, span.season {
+  font-weight: bold;
+  color: #1ea8a1;
+}

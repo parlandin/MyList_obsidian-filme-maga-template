@@ -1,0 +1,81 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiFolder",
+      "LiBookText",
+      "LiBookOpen",
+      "LiWand2",
+      "LiTv"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInTitlePosition": "above",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "Home": {
+    "iconName": "LiFolder",
+    "iconColor": "#e90101"
+  },
+  "Resources": {
+    "iconName": "LiFolder",
+    "iconColor": "#a805ff"
+  },
+  "Resources/Book": {
+    "iconName": "LiFolder",
+    "iconColor": "#d95e5e"
+  },
+  "Resources/Manga": {
+    "iconName": "LiFolder",
+    "iconColor": "#3dae50"
+  },
+  "Resources/Moves": {
+    "iconName": "LiFolder",
+    "iconColor": "#b97f5f"
+  },
+  "Resources/Series": {
+    "iconName": "LiFolder",
+    "iconColor": "#438483"
+  },
+  "Static": {
+    "iconName": "LiFolder",
+    "iconColor": "#59ff00"
+  },
+  "Static/images": {
+    "iconName": "LiFolder",
+    "iconColor": "#a8b21f"
+  },
+  "Templates": {
+    "iconName": "LiFolder",
+    "iconColor": "#e2409f"
+  },
+  "Templates/movie-template.md": "LiTv",
+  "Templates/serie-template.md": "LiTvMinimalPlay",
+  "Templates/manga-template.md": "LiBookOpen",
+  "Templates/book-template.md": "LiBookText",
+  "Class": {
+    "iconName": "LiFolder",
+    "iconColor": "#0c09d7"
+  }
+}

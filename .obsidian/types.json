@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "episode": "number",
+    "season": "number",
+    "read": "text",
+    "chapter": "number",
+    "page": "number",
+    "watched": "text"
+  }
+}

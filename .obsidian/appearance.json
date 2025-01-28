@@ -1,0 +1,13 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "image-center",
+    "cards",
+    "full-width",
+    "span-colors",
+    "card-span-styles"
+  ],
+  "nativeMenus": true,
+  "showViewHeader": true
+}
