@@ -14,12 +14,16 @@ fields:
     type: Number
     options:
       step: 1
+      min: 1
+      max: 10000
     path: ""
     id: Zhns8e
   - name: chapter
     type: Number
     options:
       step: 1
+      min: 1
+      max: 10000
     path: ""
     id: a9eAvV
   - name: priority
@@ -32,7 +36,7 @@ fields:
         "3": high
     path: ""
     id: aegR2y
-version: "2.6"
+version: "2.10"
 limit: 20
 mapWithTag: true
 icon: package

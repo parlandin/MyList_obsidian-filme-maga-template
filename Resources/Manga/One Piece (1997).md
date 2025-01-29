@@ -1,8 +1,8 @@
 ---
 read: reading
 priority: low
-chapter: 11
-page: 1115
+chapter: 5
+page: 1116
 tags:
   - mangas
   - read

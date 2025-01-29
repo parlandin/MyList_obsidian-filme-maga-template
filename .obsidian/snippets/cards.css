@@ -13,6 +13,7 @@ body {
   --cards-min-width: 180px;
   --cards-max-width: 239px;
   --cards-mobile-width: 120px;
+  --cards-mobile-max-width: 1fr;
   --cards-image-height: 400px;
   --cards-padding: 1.2em;
   --cards-image-fit: contain;
@@ -34,7 +35,9 @@ thead.table-view-thead {
 
 @media (max-width: 400pt) {
   body {
-    --cards-min-width:var(--cards-mobile-width); } }
+    --cards-min-width:var(--cards-mobile-width); 
+    --cards-max-width: var(--cards-mobile-max-width); 
+  } }
 .cards.table-100 table.dataview tbody,
 .table-100 .cards table.dataview tbody {
   padding: 0.25rem 0.75rem; }
